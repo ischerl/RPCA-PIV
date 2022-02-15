@@ -2,7 +2,7 @@
 
 #Cross-flow turbine PIV, cylinder PIV, & cylinder DNS:
 
-Available soon
+Please reach out to Isabel Scherl: ischerl@uw.edu
 
 #Channel-flow:
 
