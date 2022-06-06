@@ -2,7 +2,9 @@
 
 #Cross-flow turbine PIV, cylinder PIV, & cylinder DNS:
 
-Please reach out to Isabel Scherl: ischerl@uw.edu
+At this time, the data for the cylinder DNS is available @ http://www.databookuw.com/
+
+The experimental data will be made available at a later date.  
 
 #Channel-flow:
 
