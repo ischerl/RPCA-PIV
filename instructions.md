@@ -4,7 +4,7 @@
 
 At this time, the data for the cylinder DNS is available @ http://www.databookuw.com/
 
-The experimental data may be made available at a later date reach out to Isabel Scherl @ ischerl@uw.edu for updates.
+The experimental data may be made available at a later date. Reach out to Isabel Scherl @ ischerl@uw.edu for updates.
 
 #Channel-flow:
 
